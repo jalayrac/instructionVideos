@@ -1,0 +1,6 @@
+*.mat
+*~
+data/
+*.swp
+*.mexa64
+results/
